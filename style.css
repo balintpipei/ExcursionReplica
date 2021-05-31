@@ -1,0 +1,36 @@
+* {
+    border-size: border-box;
+}
+body {
+    background-color: black;
+    color: white;
+    font-family: Times New Roman;
+    text-align: center;
+    margin: 10px;
+}
+a {
+    color: lightgreen;
+    margin: 30px;
+    font-size: 25px;
+}
+p {
+    color: grey;
+    font-size: 25px;
+}
+img[src*="camp"] {
+    width: 100%;
+    margin: 20px;
+}
+footer p {
+    text-align: right;
+    font-size: 25px;
+}
+h1 {
+    font-size: 40px;
+}
+video {
+    margin: 20px;
+}
+#firsth1 {
+    font-size: 50px;
+}
